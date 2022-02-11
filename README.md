@@ -1,4 +1,9 @@
-# the-cavern-web-game
+# The Cavern (Web Game)
+ 
+A basic pixelated web game
+
+## Author
+Marcus Jackson - <marcusj98@gmail.com>
 
 ## Project setup
 ```
@@ -22,3 +27,4 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
